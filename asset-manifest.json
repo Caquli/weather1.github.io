@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/app2/static/css/main.3f282a4a.css",
-    "main.js": "/app2/static/js/main.c69713fc.js",
-    "static/js/787.419af693.chunk.js": "/app2/static/js/787.419af693.chunk.js",
-    "static/media/HelveticaforTarget-Bold.ttf": "/app2/static/media/HelveticaforTarget-Bold.7480b2ff8135a39dbdb5.ttf",
-    "index.html": "/app2/index.html",
-    "main.3f282a4a.css.map": "/app2/static/css/main.3f282a4a.css.map",
-    "main.c69713fc.js.map": "/app2/static/js/main.c69713fc.js.map",
-    "787.419af693.chunk.js.map": "/app2/static/js/787.419af693.chunk.js.map"
+    "main.css": "/weather1.github.io/static/css/main.56f7e2ea.css",
+    "main.js": "/weather1.github.io/static/js/main.eff865e3.js",
+    "static/js/787.419af693.chunk.js": "/weather1.github.io/static/js/787.419af693.chunk.js",
+    "static/media/HelveticaforTarget-Bold.ttf": "/weather1.github.io/static/media/HelveticaforTarget-Bold.7480b2ff8135a39dbdb5.ttf",
+    "index.html": "/weather1.github.io/index.html",
+    "main.56f7e2ea.css.map": "/weather1.github.io/static/css/main.56f7e2ea.css.map",
+    "main.eff865e3.js.map": "/weather1.github.io/static/js/main.eff865e3.js.map",
+    "787.419af693.chunk.js.map": "/weather1.github.io/static/js/787.419af693.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.3f282a4a.css",
-    "static/js/main.c69713fc.js"
+    "static/css/main.56f7e2ea.css",
+    "static/js/main.eff865e3.js"
   ]
 }
