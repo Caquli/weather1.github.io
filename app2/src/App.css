@@ -1,0 +1,7 @@
+@font-face {
+  font-family: "FONT";
+  src: url(HelveticaforTarget-Bold.ttf);
+}
+.font{
+  font-family: "FONT";
+}

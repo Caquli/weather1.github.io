@@ -1,0 +1,17 @@
+.weatherinfo{
+    position: absolute;
+    left: 7em;
+}
+.textfield{
+    position: absolute;
+    left: 2em;
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+}
+.tempinfo{
+    position: absolute;
+    left: 23em;
+    top: 3em;
+    font-size: 33px;
+}
